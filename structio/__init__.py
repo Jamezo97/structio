@@ -1,2 +1,2 @@
 
-from .structio import StructIO
+from .structio import StructIO, VType
